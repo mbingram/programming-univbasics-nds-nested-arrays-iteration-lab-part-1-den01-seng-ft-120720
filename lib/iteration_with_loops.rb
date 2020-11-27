@@ -1,7 +1,9 @@
 def find_even_values(src) 
-  array = [
+  src = [
    [10, 11],
    [99, 50, 3, 4],
    [23, 41]
 ]
+
+find_even_values(src)
 end
