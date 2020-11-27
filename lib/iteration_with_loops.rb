@@ -5,5 +5,4 @@ def find_even_values(src)
    [23, 41]
 ]
 
-find_even_values(src)
 end
